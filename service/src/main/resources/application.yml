@@ -2,7 +2,7 @@ server:
   port: 8762
 spring:
   application:
-    name: service
+    name: learn-service
 eureka:
   client:
     serviceUrl:
