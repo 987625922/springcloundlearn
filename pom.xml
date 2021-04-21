@@ -14,5 +14,6 @@
         <module>service</module>
         <module>eureka</module>
         <module>web</module>
+        <module>zuul</module>
     </modules>
 </project>

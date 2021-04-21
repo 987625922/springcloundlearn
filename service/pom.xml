@@ -36,6 +36,16 @@
             <artifactId>spring-cloud-starter-openfeign</artifactId>
             <version>1.4.5.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
+            <version>1.4.5.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-zuul</artifactId>
+            <version>1.4.5.RELEASE</version>
+        </dependency>
     </dependencies>
 
     <build>
